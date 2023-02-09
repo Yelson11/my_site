@@ -1,0 +1,23 @@
+body {
+    background-color: #F2E7D5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: #6D9886;
+    border-width: 5px;
+    width: 7%;
+}
+
+h1 {
+    color: #393E46;
+}
+
+h3 {
+    color: #6D9886;
+}
+
+th {
+    color: #393E46;
+}
