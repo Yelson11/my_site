@@ -21,3 +21,18 @@ h3 {
 th {
     color: #393E46;
 }
+
+/*----------------- Class Selector -----------------
+.fms{
+    background-color: #393E46;
+}
+
+/*----------------- ID Selector -----------------
+#heading {
+    background-color: aqua;
+}
+*/
+
+img:hover {
+    background-color: #dbd1c0;
+}
